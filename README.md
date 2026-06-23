@@ -35,7 +35,7 @@ Profiled the raw tables in Excel, then in Python cleaned missing values, enginee
 ## Deliverables
 * `ecommerce__pipeline.xlsx` — Excel profiling workbook
 * `ecommerce_pipeline.ipynb` — the full pipeline notebook
-* `ecommerce.db` — SQLite database
+* SQL validation queries run in SQLite (shown in the notebook)
 * `dashboard_data.csv` — the analysis-ready dataset feeding the dashboard
 
 ---
